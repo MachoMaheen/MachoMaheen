@@ -1,7 +1,10 @@
 ### Hi! Macho here 👋
 
-<img src="https://holopin.io/api/user/board?user=machomaheen" alt="@machomaheen's Holopin board" width="200"/>
-[!](https://holopin.io/@machomaheen) 
+
+
+<a href="https://holopin.io/@machomaheen">
+<img src="https://holopin.io/api/user/board?user=machomaheen" alt="@machomaheen's Holopin board"  width=150" height="70"/>
+</a>
 <!--
 **MachoMaheen/MachoMaheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
