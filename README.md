@@ -3,7 +3,7 @@
 
 
 <a href="https://holopin.io/@machomaheen">
-<img src="https://holopin.io/api/user/board?user=machomaheen" alt="@machomaheen's Holopin board"  width=150" height="70"/>
+<img src="https://holopin.io/api/user/board?user=machomaheen" alt="@machomaheen's Holopin board"  width=459" height="120"/>
 </a>
 <!--
 **MachoMaheen/MachoMaheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
